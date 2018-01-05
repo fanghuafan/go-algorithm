@@ -1,6 +1,6 @@
 package bubble
 
-// 冒泡排序
+// bubble upgrade sort
 func SortUpgrade(data []int) []int {
 	for i := 0; i < len(data); i++ {
 		isMove := false;

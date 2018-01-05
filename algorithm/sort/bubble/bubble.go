@@ -1,6 +1,6 @@
 package bubble
 
-// 冒泡排序
+// bubble sort
 func Sort(data []int) []int {
 	for i := 0; i < len(data); i++ {
 		for j := i; j < len(data); j++ {
