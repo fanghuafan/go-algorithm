@@ -15,114 +15,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/go_algorithm$TestBubble_in_Sort_test_go__2_.coverage" NAME="TestBubble in Sort_test.go (2) Coverage Results" MODIFIED="1515297745860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/go_algorithm$TestBubble_in_Sort_test_go.coverage" NAME="TestBubble in Sort_test.go Coverage Results" MODIFIED="1515163795565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SingleLinked.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/link/SingleLinked.go">
+      <file leaf-file-name="select_sort.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/sort/select/select_sort.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-532">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LRU.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/link/LRU.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="e#14#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.go" pinned="false" current-in-tab="false">
-        <entry file="file://D:/GO/src/container/list/list.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="212">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubble.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/bubble.go">
+      <file leaf-file-name="sort_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/sort/select/sort_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="247">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubble_upgrade.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/bubble_upgrade.go">
+      <file leaf-file-name="shell_sort.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/shell_sort.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="228">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sort_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/Sort_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#16#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insertion.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/insertion.go">
+      <file leaf-file-name="sort_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/sort_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testing.go" pinned="false" current-in-tab="false">
-        <entry file="file://D:/GO/src/testing/testing.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="696" column="0" lean-forward="false" selection-start-line="696" selection-start-column="0" selection-end-line="696" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sort_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/Sort_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#16#37#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panic.go" pinned="false" current-in-tab="false">
-        <entry file="file://D:/GO/src/runtime/panic.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,6 +74,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>OnEvicted</find>
+      <find>a</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="D:\Go" />
@@ -160,7 +96,11 @@
         <option value="$PROJECT_DIR$/algorithm/sort/insert/Sort_test.go" />
         <option value="$PROJECT_DIR$/algorithm/sort/bubble/bubble.go" />
         <option value="$PROJECT_DIR$/algorithm/sort/bubble/bubble_upgrade.go" />
+        <option value="$PROJECT_DIR$/algorithm/sort/insert/sort_test.go" />
         <option value="$PROJECT_DIR$/algorithm/sort/insert/insertion.go" />
+        <option value="$PROJECT_DIR$/algorithm/sort/insert/shell_sort.go" />
+        <option value="$PROJECT_DIR$/algorithm/sort/select/sort_test.go" />
+        <option value="$PROJECT_DIR$/algorithm/sort/select/select_sort.go" />
       </list>
     </option>
   </component>
@@ -224,6 +164,13 @@
             <path>
               <item name="go-algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="select" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -243,6 +190,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GOPATH\src\go-algorithm\algorithm\sort\select" />
       <recent name="F:\GOPATH\src\go-algorithm\algorithm\sort\insert" />
       <recent name="F:\GOPATH\src\go-algorithm\algorithm\sort\bubble" />
     </key>
@@ -263,16 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestBubble in Sort_test.go (2)">
-    <configuration name="go build SortTest.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="go-algorithm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/algorithm/sort/test/SortTest.go" />
-      <package value="go-algorithm" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestBubble in sort_test.go">
     <configuration name="SortTest" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="go-algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -326,6 +265,17 @@
       <filePath value="$PROJECT_DIR$" />
       <pattern value="^TestBubble$" />
     </configuration>
+    <configuration name="TestBubble in sort_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="go-algorithm" />
+      <working_directory value="$PROJECT_DIR$/algorithm/sort/select" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-algorithm/algorithm/sort/select" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestBubble$" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="go-algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -338,19 +288,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Test.SortTest" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build SortTest.go (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Test.Sort_test.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Test.Sort_test.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Go Test.TestBubble in sort_test.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Go Test.Sort_test.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build SortTest.go (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Go Test.TestBubble in sort_test.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Go Test.Sort_test.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Test.TestBubble in Sort_test.go" />
       </list>
     </recent_temporary>
   </component>
@@ -358,35 +308,35 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.05 at 23h 59m 04s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 11h 48m 05s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 02m 44s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 11h 50m 38s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 06m 18s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 11h 56m 41s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 16m 13s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 11h 56m 51s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 20m 00s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 11h 57m 00s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 20m 58s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 12h 02m 18s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 21m 34s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 12h 02m 26s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 22m 45s.xml">
+    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.07 at 12h 03m 16s.xml">
       <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 23m 42s.xml">
-      <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestBubble_in_sort_test_go - 2018.01.07 at 12h 50m 14s.xml">
+      <configuration name="TestBubble in sort_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestBubble_in_Sort_test_go_(2) - 2018.01.06 at 00h 24m 29s.xml">
-      <configuration name="TestBubble in Sort_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestBubble_in_sort_test_go - 2018.01.07 at 12h 59m 09s.xml">
+      <configuration name="TestBubble in sort_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -402,7 +352,7 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3737245" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36989796" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -447,7 +397,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -465,7 +415,7 @@
         <state relative-caret-position="378">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="e#14#62#0" expanded="true" />
+            <element signature="e#14#62#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -478,20 +428,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/GO/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="145" column="5" lean-forward="false" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/link/LRU.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
-            <element signature="e#14#37#0" expanded="true" />
+            <element signature="e#14#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -522,32 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/GO/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="696" column="0" lean-forward="false" selection-start-line="696" selection-start-column="0" selection-end-line="696" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/GO/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/Sort_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#16#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/bubble.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -564,20 +480,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/Sort_test.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/sort/bubble/sort_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="114">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="e#16#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/GO/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="154" column="20" lean-forward="true" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/GO/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="539" column="0" lean-forward="false" selection-start-line="539" selection-start-column="0" selection-end-line="539" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/GO/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/GO/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2337" column="0" lean-forward="false" selection-start-line="2337" selection-start-column="0" selection-end-line="2337" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/insertion.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/shell_sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sort/insert/sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sort/select/sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sort/select/select_sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>

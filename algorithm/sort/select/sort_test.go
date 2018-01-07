@@ -1,4 +1,4 @@
-package insert
+package _select
 
 import (
 	"testing"
@@ -6,7 +6,7 @@ import (
 
 func TestBubble(t *testing.T) {
 	var arr = []int{1,4,5,7,2,3,10,-1,-12,23,324,23423,-1212}
-	ShellSort(arr)
+	SelectSort(arr)
 	t.Log(arr)
 	//i := 4
 	//j := 1

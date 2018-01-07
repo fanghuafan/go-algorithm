@@ -1,6 +1,6 @@
 package insert
 
-// insertion sort
+// insertion sort [front to back]
 func InsertSort(data []int) []int {
 	for i := 0; i < len(data); i++ {
 		key := data[i]
